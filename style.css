@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  padding: 0;background-color: #3D8DAE;
+  padding: 0;
 
 }
 .navbar {
@@ -11,7 +11,7 @@
   justify-content: center;
   top: 0px;
   cursor: pointer;
-  background:transparent;
+  background-color:blue;
 }
 
 .nav-list {
